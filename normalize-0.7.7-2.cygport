@@ -1,0 +1,8 @@
+DESCRIPTION="Audio file volume normalizer"
+HOMEPAGE="http://normalize.nongnu.org/"
+SRC_URI="http://savannah.nongnu.org/download/${PN}/${P}.tar.bz2"
+
+PKG_NAMES="${PN} xmms-${PN}"
+PKG_HINTS="setup xmms"
+PKG_CONTENTS[0]='usr/bin/ usr/share/'
+PKG_CONTENTS[1]='usr/lib/xmms/'
