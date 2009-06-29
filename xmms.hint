@@ -1,5 +1,5 @@
 category: Audio
-requires: cygwin glib gtk+ xmms
+requires: glib gtk+ xmms
 external-source: normalize
 sdesc: "XMMS volume normalizer plugin"
 ldesc: "normalize is a tool for adjusting the volume of audio files to a

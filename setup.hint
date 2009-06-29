@@ -1,5 +1,5 @@
 category: Audio
-requires: cygwin libaudiofile0 libmad flac lame madplay perl vorbis-tools
+requires: libaudiofile0 libmad flac lame madplay perl vorbis-tools
 sdesc: "Audio file volume normalizer"
 ldesc: "normalize is a tool for adjusting the volume of audio files to a
 standard level. This is useful for things like creating mixed CD's and
